@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Minimo</title>
+    <title>Blog on Know My Phone</title>
     <link>https://hemanth7787.github.io/knowmyphone_blog/blog/</link>
-    <description>Recent content in Blog on Minimo</description>
+    <description>Recent content in Blog on Know My Phone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 12:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://hemanth7787.github.io/knowmyphone_blog/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Menus</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/menus/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      <title>Acer unveils the Nitro 5 gaming laptop</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/acer-nitro-5-laptop/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/menus/</guid>
-      <description>Minimo has two menus.
- Main Menu Social Menu  Main Menu Main menu is located at the top of the site.
-For adding content entries to the Main menu simply add the menu variable in it&amp;rsquo;s Front Matter.
-For TOML format:
-+++ menu = &amp;quot;main&amp;quot; +++  For YAML format:
---- menu: main ---  For JSON format:
-{ &amp;quot;menu&amp;quot;: &amp;quot;main&amp;quot; }  For adding non-content entries, you will have to specify it in the site&amp;rsquo;s config file.</description>
-    </item>
-    
-    <item>
-      <title>Pagination</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/pagination/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/pagination/</guid>
-      <description>Minimo supports pagination on List pages.
-For configuring it, there are two options:
- Paginate PaginatePath  Details can be found at Hugo&amp;rsquo;s Pagination Documentation.</description>
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/acer-nitro-5-laptop/</guid>
+      <description>As a company with several indistinguishable product lines, the last thing Acer needs is another family of laptops to follow. But with the Nitro 5, it&amp;rsquo;s hoping to make a dent in the increasingly important budget gaming market. It&amp;rsquo;s not the most powerful laptop around &amp;ndash; instead the company is hoping to attract people who game once in a while
+ With the Nitro 5, it&amp;rsquo;s hoping to make a dent in the increasingly important budget gaming market</description>
     </item>
     
     <item>
@@ -45,29 +29,6 @@ For configuring it, there are two options:
       <description>Heading 1 Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Heading 3 Yet another! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Example config.toml</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/example-config-toml/</link>
-      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/example-config-toml/</guid>
-      <description>Here&amp;rsquo;s an example for config.toml file.
-baseURL = &amp;quot;http://www.example.com&amp;quot; title = &amp;quot;Minimo&amp;quot; theme = &amp;quot;minimo&amp;quot; googleAnalytics = &amp;quot;UA-XXXX-X&amp;quot; Paginate = 5 [params] description = &amp;quot;Minimalist theme for Hugo&amp;quot; dateFormat = &amp;quot;2006, Jan 2&amp;quot; copyrightOwner = &amp;quot;MunifTanjim&amp;quot; copyrightStartYear = &amp;quot;2017&amp;quot; [taxonomies] category = &amp;quot;categories&amp;quot; tag = &amp;quot;tags&amp;quot; [author] name = &amp;quot;Minimo&amp;quot; [author.social] github = &amp;quot;Minimo&amp;quot; facebook = &amp;quot;Minimo&amp;quot; twitter = &amp;quot;Minimo&amp;quot; [permalinks] page = &amp;quot;/:slug/&amp;quot;  </description>
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/installation/</link>
-      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/installation/</guid>
-      <description>Create a Hugo site If you haven&amp;rsquo;t created a Hugo site yet, use the following command:
-hugo new site &amp;lt;name&amp;gt;  Replace the &amp;lt;name&amp;gt; with whatever you want to name your site&amp;rsquo;s repository. Alright, now enter the site&amp;rsquo;s root folder:
-cd &amp;lt;name&amp;gt;  Okay, now it&amp;rsquo;s time for installing Minimo!
-Installing Minimo There are two different ways you can install Minimo:
- As clone As submodule  The second method is suggested.</description>
     </item>
     
   </channel>

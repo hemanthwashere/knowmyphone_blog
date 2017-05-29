@@ -1,38 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Minimo</title>
+    <title>Categories on Know My Phone</title>
     <link>https://hemanth7787.github.io/knowmyphone_blog/categories/</link>
-    <description>Recent content in Categories on Minimo</description>
+    <description>Recent content in Categories on Know My Phone</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="https://hemanth7787.github.io/knowmyphone_blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Features</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/categories/features/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      <title>Gaming</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/categories/gaming/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/categories/features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Others</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/categories/others/</link>
-      <pubDate>Mon, 29 May 2017 06:46:23 +0530</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/categories/others/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/categories/tutorial/</link>
-      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/categories/tutorial/</guid>
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/categories/gaming/</guid>
       <description></description>
     </item>
     

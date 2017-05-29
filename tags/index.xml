@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Minimo</title>
+    <title>Tags on Know My Phone</title>
     <link>https://hemanth7787.github.io/knowmyphone_blog/tags/</link>
-    <description>Recent content in Tags on Minimo</description>
+    <description>Recent content in Tags on Know My Phone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 May 2017 12:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 12:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://hemanth7787.github.io/knowmyphone_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Config</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/config/</link>
-      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
+      <title>Acer</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/acer/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/config/</guid>
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/acer/</guid>
       <description></description>
     </item>
     
@@ -29,29 +29,20 @@
     </item>
     
     <item>
-      <title>Feature</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/feature/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      <title>Gaming</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/gaming/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/feature/</guid>
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/gaming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How To</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/how-to/</link>
-      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
+      <title>Laptop</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/laptop/</link>
+      <pubDate>Mon, 29 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/how-to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Install</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/install/</link>
-      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/install/</guid>
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/laptop/</guid>
       <description></description>
     </item>
     
@@ -61,15 +52,6 @@
       <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
       
       <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/lorem-ipsum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Menu</title>
-      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/menu/</link>
-      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/menu/</guid>
       <description></description>
     </item>
     
