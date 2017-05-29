@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Minimo</title>
+    <link>https://hemanth7787.github.io/knowmyphone_blog/categories/features/</link>
+    <description>Recent content in Features on Minimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://hemanth7787.github.io/knowmyphone_blog/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menus</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/menus/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/menus/</guid>
+      <description>Minimo has two menus.
+ Main Menu Social Menu  Main Menu Main menu is located at the top of the site.
+For adding content entries to the Main menu simply add the menu variable in it&amp;rsquo;s Front Matter.
+For TOML format:
++++ menu = &amp;quot;main&amp;quot; +++  For YAML format:
+--- menu: main ---  For JSON format:
+{ &amp;quot;menu&amp;quot;: &amp;quot;main&amp;quot; }  For adding non-content entries, you will have to specify it in the site&amp;rsquo;s config file.</description>
+    </item>
+    
+    <item>
+      <title>Pagination</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/blog/pagination/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/blog/pagination/</guid>
+      <description>Minimo supports pagination on List pages.
+For configuring it, there are two options:
+ Paginate PaginatePath  Details can be found at Hugo&amp;rsquo;s Pagination Documentation.</description>
+    </item>
+    
+  </channel>
+</rss>

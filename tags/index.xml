@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Minimo</title>
+    <link>https://hemanth7787.github.io/knowmyphone_blog/tags/</link>
+    <description>Recent content in Tags on Minimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 May 2017 12:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://hemanth7787.github.io/knowmyphone_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Config</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/config/</link>
+      <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/example/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/feature/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/how-to/</link>
+      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/install/</link>
+      <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/lorem-ipsum/</link>
+      <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menu</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/tags/menu/</link>
+      <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/tags/menu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
