@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Minimo</title>
+    <link>https://hemanth7787.github.io/knowmyphone_blog/post/</link>
+    <description>Recent content in Posts on Minimo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 May 2017 06:46:23 +0530</lastBuildDate>
+    
+	<atom:link href="https://hemanth7787.github.io/knowmyphone_blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>good to great</title>
+      <link>https://hemanth7787.github.io/knowmyphone_blog/post/good-to-great/</link>
+      <pubDate>Mon, 29 May 2017 06:46:23 +0530</pubDate>
+      
+      <guid>https://hemanth7787.github.io/knowmyphone_blog/post/good-to-great/</guid>
+      <description>I read Good to Great in May 2017. An awesome read sharing detailed analysis on how good companies became great.</description>
+    </item>
+    
+  </channel>
+</rss>
